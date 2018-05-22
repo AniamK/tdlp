@@ -1,3 +1,7 @@
 /MNIST_data/
-/cats versus dogs/*.zip
+/cats_versus_dogs/*.zip
+/cats_versus_dogs/*.npy
+/cats_versus_dogs/data/*
+/cats_versus_dogs/train/*
+/cats_versus_dogs/test1/*
 /*.pdf
